@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">reproductor de audio</string>
+    <string name="song_name">song name</string>
+    <string name="_4_10">4:10</string>
+</resources>
